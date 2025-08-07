@@ -2,16 +2,16 @@
 
 
 ## Features
-> Weather Forecast
-> IP Based Location Detection
-> Weather Based Background change
-> Searching weather based on city or location
+- Weather Forecast
+- IP Based Location Detection
+- Weather Based Background change
+- Searching weather based on city or location
 
 ## Tech Stack
-> Python
-> django
-> Tailwind
-> Third Party API
+- Python
+- django
+- Tailwind
+- Third Party API
 
 ## How to use?
 
@@ -21,7 +21,7 @@
 4. open localhost:8000
 
 ## API Used
-> Openweather API for Weather
+- Openweather API for Weather
   Doc: https://openweathermap.org/api/geocoding-api
-> IP-api Gelocation API -
+- IP-api Gelocation API -
   Doc: https://ip-api.com/docs/api:json
