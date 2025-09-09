@@ -1,6 +1,8 @@
 # Simple Weather Application Using DJango
 
 
+## Demo : http://weatherbyri.pythonanywhere.com/
+
 ## Features
 - Weather Forecast
 - IP Based Location Detection
